@@ -1,1 +1,1 @@
-<h1 align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&width=1400&lines=Hi there,+Welcome+to+GDSC UPNVJT+👋🏻" alt="Typing SVG" align="center" /></h1>
+<h1 align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&width=1400&lines=Hi+there,+Welcome+to+GDSC+UPNVJT+👋🏻" alt="Typing SVG" align="center" /></h1>
