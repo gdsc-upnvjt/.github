@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/company/gdsc-upnvjt/">
     <img src="https://img.shields.io/badge/-gdsc upnvjt-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="[mailto:gdsc.upnvjt@gmail.com](https://www.youtube.com/@gdsc.upnvjt)">
+  <a href="https://www.youtube.com/@gdsc.upnvjt">
     <img src="https://img.shields.io/badge/gdsc.upnvjt-0078D4?style=for-the-badge&logo=Youtube&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:gdsc.upnvjt@gmail.com">
